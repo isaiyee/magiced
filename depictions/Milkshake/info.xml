@@ -1,0 +1,24 @@
+<package>
+	<id>com.modmyi.milkshake</id>
+	<name>Milkshake</name>
+	<version>1.6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tested Packages only</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	<version>1.6</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
