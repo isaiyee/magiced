@@ -29,7 +29,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Package: com.modmyi.milkshake
 Version: 1.6
 Section: Tweaks
-Maintainer: ArkLotif
+Maintainer: ArkLotif <ArkLotif@gmail.com>
 Depends: firmware (>10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.modmyi.milkshake.deb
